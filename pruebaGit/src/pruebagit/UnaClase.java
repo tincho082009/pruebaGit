@@ -10,5 +10,7 @@ package pruebagit;
  * @author programador
  */
 public class UnaClase {
-    
+    public void unMetodo(){
+        System.out.println("Hola!");
+    }
 }
