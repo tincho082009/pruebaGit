@@ -16,5 +16,9 @@ public class UnaClase {
     }
     public void otroMetodo(){
         System.out.println("MAMAAA (Diria el Ricardo Fort)");
-    }
+        
+    public void cualquierMetodo(){   
+         System.out.println("chau!");
+    
+     }
 }
