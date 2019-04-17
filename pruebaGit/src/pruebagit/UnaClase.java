@@ -12,5 +12,6 @@ package pruebagit;
 public class UnaClase {
     public void unMetodo(){
         System.out.println("Hola!");
+        System.out.println("Mama estoy escribiendo codigo :3");
     }
 }
