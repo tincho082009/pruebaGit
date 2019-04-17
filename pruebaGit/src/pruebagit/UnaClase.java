@@ -15,3 +15,9 @@ public class UnaClase {
         System.out.println("Mama estoy escribiendo codigo :3");
     }
 }
+public class OtraClase {
+    public void otroMetodo(){
+    
+        System.out.println("LOL");
+    }
+}
